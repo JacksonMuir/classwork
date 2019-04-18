@@ -39,7 +39,7 @@
         <li><srong>Portfolio:</strong> <a href="@">coming soon</a></li>
       </vl>
     </section>
-</div>
-</html>
+  </div>
+ </html>
 </body>
 
