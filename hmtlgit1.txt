@@ -1,0 +1,42 @@
+<DOCTYPE html>
+<html lang="en-us">
+  <head>
+     <meta charset="UTF-8" />
+     <title>Activity 1: Basic HTML Bio</title>
+  <head>
+
+  <body>
+     <!-- Site Header --!>
+     <header>
+       <!-- h1: The most important headline -->
+       <h1>Student Bio</h1>
+    </header>
+
+    <div>
+     <!-- Section 1: Bio -->
+     <section>
+       <!-- h2: Tier-2 Headline [Not as important as the h1 header, but more than 1 allowed]. --!>
+       <h2> Jackson Muir</h2>
+
+       <!-- Image with link -->
+       <img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/52995493_10216773131232714_116554580505919488_n.jpg?_nc_cat=108&_nc_ht=scontent-lga3-1.xx&oh=742b731291b6a0948b94c44d059cbe38&oe=5D44183D" alt="Jackson Muir" />
+
+       <!-- Paragraph with embedded link -->
+       <p>
+         I like MMORPGs and long walks on the beach. I enjoy pistachios and pizza rolls. Dogs are my favorite animals and I love to swim
+       </p>
+    </section>
+
+    <!-- Section 2: Contac Info -->
+    <section>
+      <!-- h2: Tier-2 Headline -->
+      <h2>Contact Info</h2>
+
+      <!-- Unordered List -->
+      <vl>
+        <li><strong>Email:</strong> <a href="#">jaxxmuir@gmail.com</a></li>
+        <li><strong>Github:</strong> <a href="@">jaxxm</a></li>
+        <li><srong>Portfolio:</strong> <a href="@">coming soon</a></li>
+      </vl>
+    </section>
+</div>
